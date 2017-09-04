@@ -21,7 +21,7 @@ class MailGun
     end
 
     # los elementos del correo, oblgiado y opcionales
-    attr_accessor :from,:to ,:subject, :text, :html, :body, :reply_to, :x_mailer, :apikey, :dominio
+    attr_accessor :from, :to ,:subject, :text, :html, :body, :reply_to, :x_mailer, :apikey, :dominio
 
     # dominio para los angloparlantes compatible con angloparlantes
     alias dom dominio
