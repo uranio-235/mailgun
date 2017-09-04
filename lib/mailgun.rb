@@ -1,7 +1,6 @@
 # hablaremos con la APi
 require 'rest-client' unless defined? RestClient
 require 'json' unless defined? JSON
-require 'ostruct' unless defined? OpenStruct
 
 
 class MailGun
