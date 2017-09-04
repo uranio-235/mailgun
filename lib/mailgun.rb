@@ -92,6 +92,9 @@ class MailGun
         # el destino
         @@correo['to']=@to
 
+        # el origen
+        @@correo['from']=@from
+
         # si tiene reply_to y además es válido, inclúyelo
         @@correo['h:Reply-To']=@reply_to if @reply_to and @reply_to.include? '@'
 

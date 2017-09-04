@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
     s.name        = 'mailgun'
     s.version     = version
     s.date        = Time.now.to_s.split(' ')[0]
-    s.summary     = 'helper de mailgun'
-    s.description = 'correos de mailgun al momento'
+    s.summary     = 'manda correos simples con mailgun'
+    s.description = 'manda un correo con mailgun de manera sencilla, lo siento, no soporta adjuntos'
     s.authors     = 'Uranio-235'
     s.email       = 'rubygem@chipojosoft.com'
     s.homepage    = 'http://github.com/uranio-235/mailgun'
