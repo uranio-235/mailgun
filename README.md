@@ -115,4 +115,3 @@ gem 'mailgun', github: 'http://github.com/uranio-235/mailgun'
 ```
 
 Se aceptan donaciones [14iNmkfULf5jggumVh963kUg4UPScEZHgz](http://uranio-235.github.io/images/direccion.png)
-=
