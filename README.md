@@ -111,7 +111,7 @@ mail.reply_to='otra@direccion.com'
 Haste un Gemfile y ponle
 
 ```ruby
-gem 'mailgun', github: 'http://github.com/uranio-235/mailgun'
+gem 'mailgun', git: 'https://github.com/uranio-235/mailgun.git'
 ```
 
 Se aceptan donaciones [14iNmkfULf5jggumVh963kUg4UPScEZHgz](http://uranio-235.github.io/images/direccion.png)
