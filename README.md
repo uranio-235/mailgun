@@ -16,7 +16,7 @@ mail.subject='tal cosa'
 mail.send
 ```
 
-Se aceptan donaciones [14iNmkfULf5jggumVh963kUg4UPScEZHgz](http://uranio-235.github.io/images/direccion.png)
+Se aceptan donaciones [14iNmkfULf5jggumVh963kUg4UPScEZHgz](https://blockchain.info/address/14iNmkfULf5jggumVh963kUg4UPScEZHgz)
 
 <br>
 
@@ -114,4 +114,4 @@ Haste un Gemfile y ponle
 gem 'mailgun', git: 'https://github.com/uranio-235/mailgun.git'
 ```
 
-Se aceptan donaciones [14iNmkfULf5jggumVh963kUg4UPScEZHgz](http://uranio-235.github.io/images/direccion.png)
+Se aceptan donaciones [14iNmkfULf5jggumVh963kUg4UPScEZHgz](https://blockchain.info/address/14iNmkfULf5jggumVh963kUg4UPScEZHgz)
